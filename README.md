@@ -1,5 +1,9 @@
 # PyEmailAuto: A simple ETL and Reporting Automation project
 
+! []( https://drive.google.com/file/d/1auC9MZyBkrT0Zhp8W-scQa9uwG66B4ah/view?usp=sharing)
+
+
+
 This repo is a simple Python code on data analysis reporting automation. The [smtplib](https://docs.python.org/3/library/smtplib.html) and [email](https://docs.python.org/3/library/email.html) is used in this project. 
 
 Here are data presentation formats that is used in this project:
