@@ -1,4 +1,4 @@
-# PyEmailAuto: A simple ETL and Reporting Automation project
+# PyEmailAuto: A simple Reporting Automation project
 
 ![email]( https://github.com/sfamousavi/PyEmailAuto/blob/main/PyEmailAuto_Image1.jpg?raw=true)
 
