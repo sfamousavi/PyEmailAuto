@@ -3,10 +3,10 @@
 This repo is a simple Python code on data analysis reporting automation. The [smtplib](https://docs.python.org/3/library/smtplib.html) and [email](https://docs.python.org/3/library/email.html) is used in this project. 
 
 Here are data presentation formats that is used in this project:
-* Formating data into strings
+* Formatting data into strings
 * Beautiful tables
 * Graphs
-* Difefrent type of files (Excel, CSV, ...)
+* Different type of files (Excel, CSV, ...)
 
 
 
@@ -36,6 +36,5 @@ The project is structured in 3 steps:
 
 
 ### License
-[WTFPL](https://en.wikipedia.org/wiki/WTFPL)
-
+MIT Copyright License
 
