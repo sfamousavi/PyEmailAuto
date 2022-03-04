@@ -1,6 +1,6 @@
 # PyEmailAuto: A simple ETL and Reporting Automation project
 
-! []( https://drive.google.com/file/d/1auC9MZyBkrT0Zhp8W-scQa9uwG66B4ah/view?usp=sharing)
+! []( https://github.com/sfamousavi/PyEmailAuto/blob/main/PyEmailAuto_Image1.jpg)
 
 
 
